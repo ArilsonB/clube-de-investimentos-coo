@@ -6,6 +6,7 @@ public class AssistenciaVeicular extends Servico {
 	
 	private String Descricao;
 	
+	@SuppressWarnings("unused")
 	private boolean AlterarData = true;
 
 	public String getMatricula() {
